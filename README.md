@@ -1,3 +1,6 @@
+Watch the page functioning without having to clone or start a server:
+http://www.medicinaholisticarosario.com/proyectos/noticias/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
